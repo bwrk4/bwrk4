@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 
 <img width="150" height="600" alt="image" src="logo.png" />
 
-<img width="150" height="600" alt="image" src="https://www.emojiall.com/images/240/telegram/1f44b.gif">
+<img width="150" height="600" alt="image" src="https://www.cybermagonline.com/img/sayfa/kodlama-1.gif">
