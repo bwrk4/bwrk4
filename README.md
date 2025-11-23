@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - 
--<img width="150" height="600" alt="image" src="logo.png" />
+<img width="150" height="600" alt="image" src="logo.png" />
 
+<img width="150" height="600" alt="image" src="https://www.emojiall.com/images/240/telegram/1f44b.gif">
