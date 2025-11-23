@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 
 <img width="150" height="600" alt="image" src="logo.png" />
 
-<img width="350" height="600" alt="image" src="https://www.cybermagonline.com/img/sayfa/kodlama-1.gif">
+<img width="350" height="600" alt="image" src="https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif">
